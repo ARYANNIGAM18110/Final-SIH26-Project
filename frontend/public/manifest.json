@@ -1,0 +1,25 @@
+{
+  "short_name": "KARUNA OS",
+  "name": "KARUNA - Disaster Management & Tactical SOS System",
+  "description": "Offline-First Disaster Triage, Mesh Beacon & Tactical Interception Radar",
+  "icons": [
+    {
+      "src": "/karuna-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/karuna-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1c1917",
+  "theme_color": "#dc2626",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
